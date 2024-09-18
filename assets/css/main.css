@@ -468,6 +468,10 @@ h6 {
   border-radius: 50px;
 }
 
+.member:hover {
+  box-shadow: 0px 8px 30px rgb(178, 0, 0); /* Shadow merah */
+}
+
 .footer .footer-newsletter .newsletter-form:focus-within {
   border-color: #800000;
 }
